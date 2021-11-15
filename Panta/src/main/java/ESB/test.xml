@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns:resp xmlns:ns="http://esb.xjrccb.com/1500200007" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+         xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+    <ns:svcHead>
+        <ns:SvcId>1500200007</ns:SvcId>
+        <ns:OptId>01</ns:OptId>
+        <ns:EsbSvcSeqNo>56c6e1f7-2e72-43a2-9891-03018b8cdeae</ns:EsbSvcSeqNo>
+        <ns:PvdId>10090</ns:PvdId>
+        <ns:RspSrc>10090</ns:RspSrc>
+        <ns:RspCode/>
+        <ns:RspIfn/>
+        <ns:PvdSeqNo>19510ca28d7d45f4b95135f7b061b005</ns:PvdSeqNo>
+        <ns:EsbTms>2021-11-10T14:27:42.619</ns:EsbTms>
+    </ns:svcHead>
+    <ns:appHead>
+        <ns:sndAppCd>ECIF</ns:sndAppCd>
+        <ns:msgCd>MN2001</ns:msgCd>
+        <ns:sndDt>20211110</ns:sndDt>
+        <ns:sndTm>141228796</ns:sndTm>
+        <ns:seqNb>19510ca28d7d45f4b95135f7b061b005</ns:seqNb>
+        <ns:refSndAppCd>110001</ns:refSndAppCd>
+        <ns:refMsgCd>MN2001</ns:refMsgCd>
+        <ns:refSndDt>20211110</ns:refSndDt>
+        <ns:refSeqNb>123</ns:refSeqNb>
+    </ns:appHead>
+    <ns:appBody/>
+</ns:resp>
